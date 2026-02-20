@@ -1,4 +1,4 @@
 # attendance-portal-gitdemo
-repo
+repositries
 
 this is new content.
